@@ -13,9 +13,12 @@ build/
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+=======
+>>>>>>> refs/remotes/origin/master
 
 ### IntelliJ IDEA ###
 .idea
